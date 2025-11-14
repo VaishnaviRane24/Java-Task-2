@@ -1,6 +1,6 @@
 # 📚 Student Record Management System
 
-                            A simple CLI-based Java application to manage student records using CRUD operations. Built as part of the **Java Developer Internship Task 2** under the Ministry of MSME, Govt. of India.
+                            A simple CLI-based Java application to manage student records using CRUD operations. Built as part of the **Java Developer Internship Task 2** .
 
 
 ## 🚀 Objective
