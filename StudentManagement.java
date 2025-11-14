@@ -50,6 +50,7 @@ public class StudentManagement{
                     deleteStudent();
                     break;
                 case 5:
+                    System.out.println("Exiting...");
                     System.exit(0);
                 default:
                     System.out.println("Invalid Choice!");
@@ -98,7 +99,8 @@ public class StudentManagement{
                 System.out.print("Enter New Marks:");
                 double marks=sc.nextDouble();
 
-                list.add(new Student(id,name,marks));
+                s.name=name;
+                s.marks=marks;
 
                 System.out.println("Updated Successfully!");
                 return;
