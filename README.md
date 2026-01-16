@@ -18,27 +18,27 @@ The goal of this task is to understand Java variables, primitive data types, use
 
 . Implementation of **basic arithmetic operations**:
 
-  . Addition
+                                    . Addition
 
-  . Subtraction
+                                    . Subtraction
 
-  . Multiplication
+                                    . Multiplication
 
-  . Division (with divide by zero handling)
+                                    . Division (with divide by zero handling)
 
 . Demonstration of **type casting**:
 
-  . Widening casting (int to double)
+                                    . Widening casting (int to double)
 
-  . Narrowing casting (double to int)
+                                    . Narrowing casting (double to int)
 
 . Clear demonstration of:
 
-  . Local variables
+                                    . Local variables
 
-  . Instance variables
+                                    . Instance variables
 
-  . Static variables
+                                    . Static variables
 
 . Formatted output using `System.out.printf()`
 
@@ -49,9 +49,9 @@ The goal of this task is to understand Java variables, primitive data types, use
 
 . **IDE / Tools**:
 
-  . Terminal (javac & java)
+                                    . Terminal (javac & java)
 
-  . Can also be run on IntelliJ IDEA, Eclipse, or VS Code
+                                    . Can also be run on IntelliJ IDEA, Eclipse, or VS Code
 
 ---
 **How to Run the Program**
@@ -62,12 +62,12 @@ The goal of this task is to understand Java variables, primitive data types, use
 
 3. Compile the program:
 
-  `javac Variable.java`
+                                   `javac Variable.java`
 
 
 4. Run the program:
 
-  `java Variable`
+                                  `java Variable`
 
 
 5. Enter two integer values when prompted
