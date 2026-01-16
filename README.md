@@ -10,67 +10,67 @@ The goal of this task is to understand Java variables, primitive data types, use
 ---
 **Features Implemented**
 ---
-Declaration of **all Java primitive data types** with comments explaining memory usage
+. Declaration of **all Java primitive data types** with comments explaining memory usage
 
-Usage of **Scanner class** to take user input from the console
+. Usage of **Scanner class** to take user input from the console
 
-**Input validation** using `hasNextInt()` to handle invalid inputs gracefully
+. **Input validation** using `hasNextInt()` to handle invalid inputs gracefully
 
-Implementation of **basic arithmetic operations**:
+. Implementation of **basic arithmetic operations**:
 
-Addition
+  . Addition
 
-Subtraction
+  . Subtraction
 
-Multiplication
+  . Multiplication
 
-Division (with divide by zero handling)
+  . Division (with divide by zero handling)
 
-Demonstration of **type casting**:
+. Demonstration of **type casting**:
 
-Widening casting (int to double)
+  . Widening casting (int to double)
 
-Narrowing casting (double to int)
+  . Narrowing casting (double to int)
 
-Clear demonstration of:
+. Clear demonstration of:
 
-Local variables
+  . Local variables
 
-Instance variables
+  . Instance variables
 
-Static variables
+  . Static variables
 
-Formatted output using `System.out.printf()`
+. Formatted output using `System.out.printf()`
 
 ---
 **Technologies Used**
 ---
-**Language**: Java
+. **Language**: Java
 
-**IDE / Tools**:
+. **IDE / Tools**:
 
-Terminal (javac & java)
+  . Terminal (javac & java)
 
-Can also be run on IntelliJ IDEA, Eclipse, or VS Code
+  . Can also be run on IntelliJ IDEA, Eclipse, or VS Code
 
 ---
 **How to Run the Program**
 ---
-Open terminal or command prompt
+1. Open terminal or command prompt
 
-Navigate to the project directory
+2. Navigate to the project directory
 
-Compile the program:
+3. Compile the program:
 
-`javac Variable.java`
-
-
-Run the program:
-
-`java Variable`
+  `javac Variable.java`
 
 
-Enter two integer values when prompted
+4. Run the program:
+
+  `java Variable`
+
+
+5. Enter two integer values when prompted
 
 ---
 **Sample Output**
@@ -92,14 +92,14 @@ Static variable: 20
 ---
 **Concepts Covered**
 ---
-Primitive vs Non-Primitive Data Types
+. Primitive vs Non-Primitive Data Types
 
-Variable Scope in Java
+. Variable Scope in Java
 
-Scanner vs BufferedReader (conceptual understanding)
+. Scanner vs BufferedReader (conceptual understanding)
 
-Type Casting (Widening and Narrowing)
+. Type Casting (Widening and Narrowing)
 
-Input validation
+. Input validation
 
-Clean and readable Java coding practices
+. Clean and readable Java coding practices
